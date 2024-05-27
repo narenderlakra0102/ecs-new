@@ -1,1 +1,7 @@
-Test,Memory\Memory Overcommit (1 Minute Avg),Memory\Memory Overcommit (5 Minute Avg),Memory\Memory Overcommit (15 Minute Avg),Physical Cpu Load\Cpu Load (1 Minute Avg),Physical Cpu Load\Cpu Load (5 Minute Avg),Physical Cpu Load\Cpu Load (15 Minute Avg),Physical Cpu(0)\ Processor Time,Physical Cpu(1)\ Processor Time,Physical Cpu(2)\ Processor Time,Physical Cpu(3)\ Processor Time,Physical Cpu(4)\ Processor Time,Physical Cpu(5)
+Name	start_tsc.TSC	end_tsc	pid	tid
+function1_task_type	419280823342846	419280876920231	12832	11644
+function2_task_type	419280876920231	419281044717992	12832	11644
+function1_task_type	419281044745822	419281102121452	12832	11644
+function2_task_type	419281102121452	419281277898762	12832	11644
+function1_task_type	419281277935812	419281342158661	12832	11644
+function2_task_type	419281342158661	419281527040239	12832	11644
